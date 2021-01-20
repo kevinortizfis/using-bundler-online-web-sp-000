@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/awesome-print/awesome_print.git
+  remote: git@github.com:awesome-print/awesome_print.git
   revision: 4b5fae1d18a49d647021affa50ee34f9c00a15c9
   specs:
     awesome_print (1.8.0)
